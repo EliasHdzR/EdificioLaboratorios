@@ -1,0 +1,39 @@
+PROYECTO
+
+PORTADA 	xxxx
+RESUMEN	xxxx
+ABSTRACT 
+INDICE	
+CAPITULO 1: Planteamiento del Problema
+	Introduccion 	xxxx
+	Objetivos		xxxx
+		General	xxxx
+		Específicos	xxxx
+	Hipótesis		xxxx
+	Justificación	xxxx
+	Alcances y Limitaciones	xxxx
+		
+CAPITULO 2: Marco Teórico
+	Teoría del Área (en la maceta sería la agricultura, los circuitos y la programación)(que sería un sello, que sería solidworks)	XXXXX
+	Estado del arte (recapitulación de los artículos anteriores a 5 años)	XXXXXX
+
+CAPITULO 3: Desarrollo del Proyecto (Metodología de la investigación / del proyecto)
+	Planeación ... todo
+	Vamos a tomar captura de pantalla de las cosas paso a paso 
+
+CAPITULO 4: Análisis de resultados
+	Por medio de imágenes los resultados obtenidos (hice mi sandwich, lo probaron, tal)
+	N muestras hasta llegar al correcto
+	Conclusiones (mencionar trabajos futuros)
+	Referencias bibliográficas
+	Anexos
+
+
+PROYECTO EDIFICIO
+DESCRIPTIVA
+bodega
+instalacion electrica 220V cableado de 220V
+Laboratorios de computo para enseñanza
+laboratorios especificos
+	computadoras con cierto software (mineria de datos, IA, redes, mantenimiento)
+De los servidores, total de pc es el total de servidores, (si ocupamos un modem y un servidor), 
